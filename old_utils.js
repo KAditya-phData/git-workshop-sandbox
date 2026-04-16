@@ -1,1 +1,0 @@
-function oldHelper() { return 'original'; }
